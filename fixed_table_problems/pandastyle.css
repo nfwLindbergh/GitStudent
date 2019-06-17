@@ -1,0 +1,35 @@
+body
+{
+	font-family: Arial;
+}
+
+img {
+	width:100%;
+}
+
+#main {
+	width:600px;
+	margin:40px auto;
+}
+
+.wikitable {
+    background-color: #f8f9fa;
+    color: #222;
+    width:100%;
+    margin: 1em 0;
+    border: 1px solid #a2a9b1;
+    border-collapse: collapse;
+}
+
+.wikitable th {
+    background-color: #eaecf0;
+    text-align: center;
+    border: 1px solid #a2a9b1;
+    padding: 0.3em;	
+}
+
+.wikitable td {
+    padding: 0.5em;	
+    text-align: center;
+}
+
